@@ -1,0 +1,2 @@
+ordre 20 : parts 1024/1024 graphes 57974895671 candidats 1553506587 courant_nul 1452605323 solutions 100901264 faux_positifs_flottant 0 cpu_s 267171.0 microsecondes_par_graphe 4.608
+         decoupages distincts : 39823705
